@@ -1,0 +1,11 @@
+order_id,customer_id,product,category,quantity,price,order_date
+1001,7,Product_4,Clothing,4,199.99,2023-01-01
+1002,4,Product_3,Books,3,9.99,2023-01-02
+1003,8,Product_5,Sports,2,14.99,2023-01-03
+1004,5,Product_2,Electronics,2,9.99,2023-01-04
+1005,7,Product_4,Electronics,3,14.99,2023-01-05
+1006,10,Product_2,Grocery,2,199.99,2023-01-06
+1007,3,Product_4,Grocery,3,49.99,2023-01-07
+1008,7,Product_5,Clothing,4,59.99,2023-01-08
+1009,8,Product_1,Sports,3,199.99,2023-01-09
+1010,5,Product_4,Sports,4,59.99,2023-01-10
